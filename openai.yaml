@@ -1,0 +1,4 @@
+interface:
+  display_name: "柯基商品图工作室"
+  short_description: "生成统一柯基卡通风格的中文商品主图、服务范围图与交付流程图"
+  default_prompt: "请使用 $corgi-commerce-images 为我的产品制作同风格三图，先明确标题、价格和交付范围。"
